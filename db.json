@@ -44,7 +44,7 @@
             "name": "ESP8266 5V",
             "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
             "price": 300,
-            "author_id": 2,
+            "author_id": 3,
             "photo_url": "https://raw.githubusercontent.com/blacksempai/martplace/master/img/wifi.jpeg"
         }
     ]
